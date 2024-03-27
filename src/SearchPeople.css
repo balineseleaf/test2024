@@ -1,0 +1,17 @@
+.person-list {
+	margin: 0;
+	padding: 0;
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.person-item {
+	list-style-type: none;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+}
+.input {
+	width: 300px;
+}
